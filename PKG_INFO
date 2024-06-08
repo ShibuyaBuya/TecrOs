@@ -1,0 +1,8 @@
+name: test
+desc: test
+version: 1
+depends: none
+type: single-file
+INSTALL_PREFIX=/usr
+post-trigger-script: true
+maintener: tecros
